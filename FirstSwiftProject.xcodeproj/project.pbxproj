@@ -102,7 +102,7 @@
 				783051EC1F87C8E100EB5157 /* Main.storyboard */,
 				783051EF1F87C8E100EB5157 /* Assets.xcassets */,
 				783051F11F87C8E100EB5157 /* LaunchScreen.storyboard */,
-				783051F41F87C8E100EB5157 /* Info.plist */,
+				783052161F87D92E00EB5157 /* Settings */,
 			);
 			path = FirstSwiftProject;
 			sourceTree = "<group>";
@@ -123,6 +123,14 @@
 				7830520A1F87C8E100EB5157 /* Info.plist */,
 			);
 			path = FirstSwiftProjectUITests;
+			sourceTree = "<group>";
+		};
+		783052161F87D92E00EB5157 /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				783051F41F87C8E100EB5157 /* Info.plist */,
+			);
+			path = Settings;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
